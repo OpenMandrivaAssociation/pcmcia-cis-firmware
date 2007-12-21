@@ -8,6 +8,7 @@ Source0: http://pcmcia-cs.sourceforge.net/ftp/%{old_name}-%{version}.tar.bz2
 License: GPL
 Group: System/Kernel and hardware
 Url: http://pcmcia-cs.sf.net/
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
 
