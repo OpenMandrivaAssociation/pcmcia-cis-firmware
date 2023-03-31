@@ -3,7 +3,7 @@
 Summary:	PCMCIA CIS overrides
 Name:		pcmcia-cis-firmware
 Version:	3.2.8
-Release:	20
+Release:	21
 License:	GPLv2
 Group:		System/Kernel and hardware
 Url:		http://pcmcia-cs.sf.net/
