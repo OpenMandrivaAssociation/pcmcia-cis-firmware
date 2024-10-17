@@ -6,7 +6,7 @@ Version:	3.2.8
 Release:	21
 License:	GPLv2
 Group:		System/Kernel and hardware
-Url:		http://pcmcia-cs.sf.net/
+Url:		https://pcmcia-cs.sf.net/
 Source0:	http://pcmcia-cs.sourceforge.net/ftp/%{oname}-%{version}.tar.bz2
 BuildArch:	noarch
 
